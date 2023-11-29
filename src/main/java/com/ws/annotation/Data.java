@@ -17,7 +17,7 @@ public @interface Data {
 
     String table() default "";
 
-    String modelKeyword() default "";
+    String modelDefaultKeyword() default "";
 
     String title() default "";
 

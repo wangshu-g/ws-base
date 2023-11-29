@@ -16,7 +16,7 @@ public class StringUtil {
     }
 
     public static boolean isEmpty(Object str) {
-        return (str == null || "null".equals(str) || "".equals(String.valueOf(str).replaceAll(" ", "")));
+        return (str == null || "null".equals(str) || String.valueOf(str).replaceAll(" ", "").isEmpty());
     }
 
     public static boolean isNotEqual(String str1, String str2) {

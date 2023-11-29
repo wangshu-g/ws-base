@@ -17,14 +17,14 @@
         <repository>
             <id>ws-base</id>
             <name>GitHub OWNER Apache Maven Packages</name>
-            <url>https://maven.pkg.github.com/WangShuHunYin/ws-base</url>
+            <url>https://maven.pkg.github.com/wangshu-g/ws-base</url>
         </repository>
     </distributionManagement>
 
     <developers>
         <developer>
-            <id>WangShuHunYin</id>
-            <name>WangShuHunYin</name>
+            <id>wangshu-g</id>
+            <name>wangshu-g</name>
             <url>https://www.望舒.com/</url>
             <timezone>Asia/Shanghai</timezone>
             <organization>Aftersoil</organization>
